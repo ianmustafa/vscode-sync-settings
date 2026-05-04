@@ -1,0 +1,193 @@
+bmewburn.vscode-intelephense-client: '{"intelephense.licence.key":"00JV41ICA4T4Y34"}'
+Dart-Code.dart-code: '{"experiment-sdkDaps":29,"experiment-sdkDaps-hasActivated":true}'
+golang.go: '{"go.extensionVersion":"0.40.0","telemetryStartTime":"2026-02-16T08:04:07.926Z","latestGoVersions":{"timestamp":1771229047929,"goVersions":[{"description":"download
+  golang.org/dl/go1.26.0","binpath":"golang.org/dl/go1.26.0","label":"Go
+  1.26.0","available":false},{"description":"download
+  golang.org/dl/go1.25.7","binpath":"golang.org/dl/go1.25.7","label":"Go
+  1.25.7","available":false}]},"goplsSurveyConfig":"{\"prompt\":true,\"promptThisMonth\":false,\"dateComputedPromptThisMonth\":\"2026-02-16T08:34:06.159Z\"}","developerSurveyConfigState":"{\"config\":{\"StartDate\":\"2025-09-09T00:00:00.000Z\",\"EndDate\":\"2025-10-01T00:00:00.000Z\",\"URL\":\"https://google.qualtrics.com/jfe/form/SV_3wwSstC8vv4Ymkm?s=v\"},\"version\":\"v0.1.0\",\"lastDateUpdated\":\"2026-02-16T08:34:06.161Z\"}"}'
+lokalise.i18n-ally: '{"i18n-ally.telemetry-user-id":"4e0a0950-1e66-47fc-91b1-855c28d641c0","notifications-ids":"","version":"2.13.1"}'
+mhutchie.git-graph: '{"lastKnownGitPath":"git"}'
+ms-azuretools.vscode-containers: '{"vscode-containers.activity.overallnoedit":{"lastSession":1772779485714,"currentMonthSessions":1,"totalSessions":2},"containers.settings.migrated":true,"vscode-containers.activity.overall":{"lastSession":1772779486038,"currentMonthSessions":1,"totalSessions":2},"VSCode.ABExp.FeatureData":{"features":["config.github.copilot.nextEditSuggestions.enabled","copilotchat.disableReplaceStringHealing","copilotchat.enableNesInSettings","copilotchat.hiddenModelBEditTool","copilot_ci","cveremediatoragentenabledcf","ideenablecopilotsemanticsearchcf","livesharecontinuousaacf","mindaroBinariesVersion","new_test","test-ai-12cf","test_t","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368cf:30146710;binariesv615:30325510;copilot_t_ci:31333650;6518g693:31463988;aj953862:31281341;6abeh943:31336334;3efgi100_wstrepl:31403338;839jf696:31457053;ec5jj548:31422691;cp_cls_c_966_ss:31454199;cp_cls_c_1081:31454833;nes-set-to-on:31463705;test_treatment2:31471001;","configs":[{"Id":"vscode","Parameters":{"config.github.copilot.nextEditSuggestions.enabled":true,"copilotchat.disableReplaceStringHealing":true,"copilotchat.enableNesInSettings":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"cveremediatoragentenabled":false,"ideenablecopilotsemanticsearch":false,"livesharecontinuousaa":false,"mindaroBinariesVersion":"1.0.20210615.1","new_test":true,"test-ai-12":false,"test_t":"cindytest","workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
+ms-vscode.sublime-keybindings: '{"alreadyPrompted":true}'
+n2ns.antigravity-panel: '{"tfa.lastCacheSize":131596860,"tfa.lastTreeState":{"brainTasks":[{"id":"40d95335-2c6c-44ec-9f5d-2e33248b1f73","title":"-
+  [x] Update `src/helpers/response.ts` with OpenAPI schema
+  helpers","size":"0","lastModified":1777876952952},{"id":"2f5d4f4c-19ca-41d1-8525-dc7f36de2108","title":"-
+  [x] Create `signInBody` schema in
+  `src/modules/auth/schema.ts`","size":"0","lastModified":1777876952952},{"id":"049b57a6-d859-4720-bb25-339ad0b5fa52","title":"-
+  [x] Configure `@nuxtjs/i18n` in
+  `nuxt.config.ts`","size":"0","lastModified":1777876952952},{"id":"c8dc613d-9d06-4483-98c5-759431a8c6d6","title":"c8dc613d-9d06-4483-98c5-759431a8c6d6","size":"0","lastModified":1777876952952},{"id":"32627ac7-b571-4b03-a129-4708ac1d8ced","title":"-
+  [x] Modify `src/db/schema/auth.ts` to add `organizationRoles`
+  table","size":"0","lastModified":1777876952952},{"id":"a83f2779-ff10-4f5e-9a67-96cdcccb1704","title":"-
+  [x] Refactor Content
+  Module","size":"0","lastModified":1777876952952},{"id":"8b5c8a78-66b1-4b82-8ebf-257a782f6ed4","title":"8b5c8a78-66b1-4b82-8ebf-257a782f6ed4","size":"0","lastModified":1777876952952},{"id":"9110c046-3b64-45c1-9710-614203946652","title":"9110c046-3b64-45c1-9710-614203946652","size":"0","lastModified":1777876952952},{"id":"29875061-c046-417a-ae9f-6e1251c58769","title":"-
+  [x] Create `src/modules/whatsapp/queries/schema.mjs` for
+  validation","size":"0","lastModified":1777876952952},{"id":"5b3fa776-12e8-4386-aa4c-b94ad7495cef","title":"5b3fa776-12e8-4386-aa4c-b94ad7495cef","size":"0","lastModified":1777876952952},{"id":"40a6c4c0-d099-478a-8317-54485e589dad","title":"40a6c4c0-d099-478a-8317-54485e589dad","size":"0","lastModified":1777876952952},{"id":"9f93f20a-82c6-4b05-91fc-41a245449d6a","title":"9f93f20a-82c6-4b05-91fc-41a245449d6a","size":"0","lastModified":1777876952952},{"id":"e95e37b9-03f7-43bc-a28d-2a37ee93ad67","title":"Goal:
+  Replace whatsapp-web.js with
+  GOWA","size":"0","lastModified":1777876952952},{"id":"b1515f03-88dd-45d4-8e2b-8b52ec26b66a","title":"GoBiz
+  Integration Task
+  Plan","size":"0","lastModified":1777876952952},{"id":"4cc41bec-22be-4e2a-b21c-dd0357f27ce3","title":"Implement
+  Ad Edit
+  Feature","size":"0","lastModified":1777876952952},{"id":"b1de61e2-c792-4f1e-abb0-74ccdccb01a3","title":"Implement
+  Matriks UKL & Matriks UPL Original APIs in PKPLH
+  Page","size":"0","lastModified":1777876952952},{"id":"4015f549-40ba-4da4-8c3a-62619e56876a","title":"4015f549-40ba-4da4-8c3a-62619e56876a","size":"0","lastModified":1777876952952},{"id":"9feea785-cd3f-44fc-83b1-4d644b27b455","title":"Ads
+  Management
+  Feature","size":"0","lastModified":1777876952952},{"id":"tempmediaStorage","title":"tempmediaStorage","size":"0","lastModified":1777876952952},{"id":"e8ffbc05-b5e6-40b5-b40a-26bc652831ee","title":"e8ffbc05-b5e6-40b5-b40a-26bc652831ee","size":"0","lastModified":1777876952952},{"id":"2807c8c9-61cf-4376-80ab-23507d689f1b","title":"2807c8c9-61cf-4376-80ab-23507d689f1b","size":"0","lastModified":1777876952952},{"id":"c9e339ed-dd24-4022-9b60-7f1d787286d5","title":"c9e339ed-dd24-4022-9b60-7f1d787286d5","size":"0","lastModified":1777876952952},{"id":"4b2ce21f-f267-4264-b10d-10c3cddbc1a1","title":"CQRS
+  Refactoring Task
+  Checklist","size":"0","lastModified":1777876952952},{"id":"367b49de-3c54-40f1-b98d-f018366b6efb","title":"Jaga
+  Bumi Kita
+  Website","size":"0","lastModified":1777876952952},{"id":"d19b99e4-4387-475f-9d52-90ca89da15b5","title":"Fix
+  Authentication Bug: PC Sleep/Wake Token
+  Invalidation","size":"0","lastModified":1777876952952},{"id":"262eeada-f2c9-4be5-a5af-95e78afe1fbe","title":"262eeada-f2c9-4be5-a5af-95e78afe1fbe","size":"0","lastModified":1777876952952},{"id":"820443af-af80-4582-93fd-d792aba91984","title":"820443af-af80-4582-93fd-d792aba91984","size":"0","lastModified":1777876952952},{"id":"ec9ad6f9-0728-4082-b1d2-544fd247360e","title":"ec9ad6f9-0728-4082-b1d2-544fd247360e","size":"0","lastModified":1777876952952},{"id":"7b36b4bd-0265-4043-bc30-4f0a88d1feeb","title":"Akses
+  Menu Feature
+  Implementation","size":"0","lastModified":1777876952952},{"id":"662d6a20-c2e2-4fc5-b93c-498282e678d5","title":"662d6a20-c2e2-4fc5-b93c-498282e678d5","size":"0","lastModified":1777876952952},{"id":"61936efd-506d-4722-b261-d34732869455","title":"61936efd-506d-4722-b261-d34732869455","size":"0","lastModified":1777876952952},{"id":"f0dd5ea3-49be-4d38-938b-ed5052dceca6","title":"Message
+  Feedback Feature
+  Implementation","size":"0","lastModified":1777876952952},{"id":"4e486c6c-9354-48f7-b74d-9a865d47beae","title":"4e486c6c-9354-48f7-b74d-9a865d47beae","size":"0","lastModified":1777876952952},{"id":"89700d00-1d9f-4583-83bd-01bb5200e97c","title":"89700d00-1d9f-4583-83bd-01bb5200e97c","size":"0","lastModified":1777876952952},{"id":"480e9f6e-e6fd-49c4-97e3-d8cdc50140a4","title":"Auth
+  Migration: @sidebase/nuxt-auth →
+  nuxt-auth-utils","size":"0","lastModified":1777876952952},{"id":"497047c4-acec-4bbb-b6ad-3f895c69dd1c","title":"API
+  Key Management
+  Feature","size":"0","lastModified":1777876952952},{"id":"d43dc54e-f52e-4f13-988b-e273cd3f85c3","title":"d43dc54e-f52e-4f13-988b-e273cd3f85c3","size":"0","lastModified":1777876952952},{"id":"70f24541-0da0-4fdf-b57c-f62147a8d6f6","title":"Refactor
+  AdminController to
+  AdminTrait","size":"0","lastModified":1777876952952},{"id":"85f481e2-37be-409a-a3ec-ad00aed23e6f","title":"85f481e2-37be-409a-a3ec-ad00aed23e6f","size":"0","lastModified":1777876952952},{"id":"fc452040-396b-4439-844e-ec9e6953f55a","title":"fc452040-396b-4439-844e-ec9e6953f55a","size":"0","lastModified":1777876952952},{"id":"ebdff872-d2ea-4579-adc2-321707169db8","title":"ebdff872-d2ea-4579-adc2-321707169db8","size":"0","lastModified":1777876952952},{"id":"fb304b93-21ca-4ca1-835b-9969d3e9ac0d","title":"fb304b93-21ca-4ca1-835b-9969d3e9ac0d","size":"0","lastModified":1777876952952},{"id":"112cfad1-ea2f-4281-99b1-fc1ca87f287b","title":"Task:
+  Summarize Component and API Usage in
+  `app/pages`","size":"0","lastModified":1777876952952},{"id":"73d2e17f-be2a-4b5e-b086-348d5384193d","title":"73d2e17f-be2a-4b5e-b086-348d5384193d","size":"0","lastModified":1777876952952},{"id":"a9ae0cdf-fac2-4d1d-b5cc-87c54f28be43","title":"a9ae0cdf-fac2-4d1d-b5cc-87c54f28be43","size":"0","lastModified":1777876952952},{"id":"871690f1-0355-4425-a4e5-cbbc6957fc95","title":"API
+  Migration to Services
+  Layer","size":"0","lastModified":1777876952952},{"id":"6223aa58-8e9a-4f3d-bf5a-9bc656e67cf0","title":"Admin
+  Dashboard Migration: bbc-arbei/topadmin →
+  bbc-dvi","size":"0","lastModified":1777876952952},{"id":"31cc7f7f-7ee2-40d4-a9de-646fac9dffa2","title":"HTML
+  Helper to Blade Component
+  Conversion","size":"0","lastModified":1777876952952},{"id":"6eae92e6-392c-4e5c-8efb-98569f8eb4aa","title":"Flutter
+  Video Converter App - Project
+  Plan","size":"0","lastModified":1777876952952},{"id":"d887af94-d254-4f7e-8bac-001b7e1ba875","title":"#
+  API Refactoring
+  Task","size":"0","lastModified":1777876952952},{"id":"508872e8-52c2-4d19-952d-e6f2a5f42039","title":"API
+  Refactoring
+  Task","size":"0","lastModified":1777876952952},{"id":"ff35b629-d8de-4e3d-b7b5-fae98e357214","title":"ff35b629-d8de-4e3d-b7b5-fae98e357214","size":"0","lastModified":1777876952952},{"id":"99711006-bd12-4606-9729-bc5b31afd295","title":"Documentation
+  Update
+  Tasks","size":"0","lastModified":1777876952952},{"id":"e26102db-7b36-4cc7-81bf-1a39a13b4166","title":"Task:
+  Align User Detail page styling with User Edit page
+  styling","size":"0","lastModified":1777876952952},{"id":"ddb42853-e75f-4e25-a2c6-0128c3daaa97","title":"ddb42853-e75f-4e25-a2c6-0128c3daaa97","size":"0","lastModified":1777876952952},{"id":"cc55bfbb-5ced-474f-bb76-5b6065024adc","title":"BBC
+  Arbei to BBC DVI Migration -
+  Front-End","size":"0","lastModified":1777876952952},{"id":"891651a4-c19b-40ab-80a2-3c667ae86888","title":"Verify
+  Project Against Figma
+  Design","size":"0","lastModified":1777876952952},{"id":"3c6198dc-1bed-46da-85e0-a1200f63f7b6","title":"3c6198dc-1bed-46da-85e0-a1200f63f7b6","size":"0","lastModified":1777876952952},{"id":"4d7a34ba-af72-4485-b0d6-b857cf40a066","title":"4d7a34ba-af72-4485-b0d6-b857cf40a066","size":"0","lastModified":1777876952952},{"id":"88978841-fbb4-479b-bb11-5ace08d7b7db","title":"88978841-fbb4-479b-bb11-5ace08d7b7db","size":"0","lastModified":1777876952952},{"id":"fcaac110-b000-4092-a0d6-62954efac07b","title":"Task:
+  Fix \"Unexpected any\" in
+  edit.vue","size":"0","lastModified":1777876952952},{"id":"2f655712-27e3-4f51-bc4e-5ed966f863b9","title":"Task:
+  Implement User Management
+  Features","size":"0","lastModified":1777876952952}],"codeContexts":[{"id":"DSS-Web-repo_0a676e7fc74470ec6d47e4349373c523a9a52d56","name":"DSS-Web-repo_0a676e7fc74470ec6d47e4349373c523a9a52d56","size":"0"},{"id":"jagabumikita-repo_3e3ffc3d83ac62b5a42866c7d7e373b57bdc0a22","name":"jagabumikita-repo_3e3ffc3d83ac62b5a42866c7d7e373b57bdc0a22","size":"0"},{"id":"jagabumikita-repo_8644254f24c9e59d81f190414f91c74df567d8dd","name":"jagabumikita-repo_8644254f24c9e59d81f190414f91c74df567d8dd","size":"0"},{"id":"kupu-service-repo_fd4675a5fd54fd91c7717a705faed4822da0a309","name":"kupu-service-repo_fd4675a5fd54fd91c7717a705faed4822da0a309","size":"0"},{"id":"no_repo","name":"no_repo","size":"0"},{"id":"whatsapp-elysia_de2f1684063012a6acb87b21f433434623927c05","name":"whatsapp-elysia_de2f1684063012a6acb87b21f433434623927c05","size":"0"}],"brainExpanded":false,"contextsExpanded":false,"lastUpdated":1777876952952},"tfa.quotaHistory_v2":[{"timestamp":1777876979045,"usage":{"gemini-flash":100,"gemini-pro":100,"claude":100,"gpt":100}},{"timestamp":1777877038810,"usage":{"gemini-flash":100,"gemini-pro":100,"claude":100,"gpt":100}},{"timestamp":1777877128835,"usage":{"gemini-flash":100,"gemini-pro":100,"claude":100,"gpt":100}},{"timestamp":1777877218820,"usage":{"gemini-flash":100,"gemini-pro":100,"claude":100,"gpt":100}}],"tfa.lastViewState":{"groups":[{"id":"gemini-flash","label":"Gemini
+  Flash","remaining":100,"resetTime":"4h
+  56m","themeColor":"#40C4FF","hasData":true},{"id":"gemini-pro","label":"Gemini
+  Pro","remaining":100,"resetTime":"4h
+  56m","themeColor":"#69F0AE","hasData":true},{"id":"claude","label":"Claude","remaining":100,"resetTime":"4h
+  56m","themeColor":"#FFAB40","hasData":true},{"id":"gpt","label":"GPT","remaining":100,"resetTime":"4h
+  56m","themeColor":"#FF5252","hasData":true}],"activeGroupId":"gemini-flash","chart":{"buckets":[{"startTime":1777871818832,"endTime":1777871908832,"items":[]},{"startTime":1777871908832,"endTime":1777871998832,"items":[]},{"startTime":1777871998832,"endTime":1777872088832,"items":[]},{"startTime":1777872088832,"endTime":1777872178832,"items":[]},{"startTime":1777872178832,"endTime":1777872268832,"items":[]},{"startTime":1777872268832,"endTime":1777872358832,"items":[]},{"startTime":1777872358832,"endTime":1777872448832,"items":[]},{"startTime":1777872448832,"endTime":1777872538832,"items":[]},{"startTime":1777872538832,"endTime":1777872628832,"items":[]},{"startTime":1777872628832,"endTime":1777872718832,"items":[]},{"startTime":1777872718832,"endTime":1777872808832,"items":[]},{"startTime":1777872808832,"endTime":1777872898832,"items":[]},{"startTime":1777872898832,"endTime":1777872988832,"items":[]},{"startTime":1777872988832,"endTime":1777873078832,"items":[]},{"startTime":1777873078832,"endTime":1777873168832,"items":[]},{"startTime":1777873168832,"endTime":1777873258832,"items":[]},{"startTime":1777873258832,"endTime":1777873348832,"items":[]},{"startTime":1777873348832,"endTime":1777873438832,"items":[]},{"startTime":1777873438832,"endTime":1777873528832,"items":[]},{"startTime":1777873528832,"endTime":1777873618832,"items":[]},{"startTime":1777873618832,"endTime":1777873708832,"items":[]},{"startTime":1777873708832,"endTime":1777873798832,"items":[]},{"startTime":1777873798832,"endTime":1777873888832,"items":[]},{"startTime":1777873888832,"endTime":1777873978832,"items":[]},{"startTime":1777873978832,"endTime":1777874068832,"items":[]},{"startTime":1777874068832,"endTime":1777874158832,"items":[]},{"startTime":1777874158832,"endTime":1777874248832,"items":[]},{"startTime":1777874248832,"endTime":1777874338832,"items":[]},{"startTime":1777874338832,"endTime":1777874428832,"items":[]},{"startTime":1777874428832,"endTime":1777874518832,"items":[]},{"startTime":1777874518832,"endTime":1777874608832,"items":[]},{"startTime":1777874608832,"endTime":1777874698832,"items":[]},{"startTime":1777874698832,"endTime":1777874788832,"items":[]},{"startTime":1777874788832,"endTime":1777874878832,"items":[]},{"startTime":1777874878832,"endTime":1777874968832,"items":[]},{"startTime":1777874968832,"endTime":1777875058832,"items":[]},{"startTime":1777875058832,"endTime":1777875148832,"items":[]},{"startTime":1777875148832,"endTime":1777875238832,"items":[]},{"startTime":1777875238832,"endTime":1777875328832,"items":[]},{"startTime":1777875328832,"endTime":1777875418832,"items":[]},{"startTime":1777875418832,"endTime":1777875508832,"items":[]},{"startTime":1777875508832,"endTime":1777875598832,"items":[]},{"startTime":1777875598832,"endTime":1777875688832,"items":[]},{"startTime":1777875688832,"endTime":1777875778832,"items":[]},{"startTime":1777875778832,"endTime":1777875868832,"items":[]},{"startTime":1777875868832,"endTime":1777875958832,"items":[]},{"startTime":1777875958832,"endTime":1777876048832,"items":[]},{"startTime":1777876048832,"endTime":1777876138832,"items":[]},{"startTime":1777876138832,"endTime":1777876228832,"items":[]},{"startTime":1777876228832,"endTime":1777876318832,"items":[]},{"startTime":1777876318832,"endTime":1777876408832,"items":[]},{"startTime":1777876408832,"endTime":1777876498832,"items":[]},{"startTime":1777876498832,"endTime":1777876588832,"items":[]},{"startTime":1777876588832,"endTime":1777876678832,"items":[]},{"startTime":1777876678832,"endTime":1777876768832,"items":[]},{"startTime":1777876768832,"endTime":1777876858832,"items":[]},{"startTime":1777876858832,"endTime":1777876948832,"items":[]},{"startTime":1777876948832,"endTime":1777877038832,"items":[]},{"startTime":1777877038832,"endTime":1777877128832,"items":[]},{"startTime":1777877128832,"endTime":1777877218832,"items":[]}],"maxUsage":1,"groupColors":{"gemini-flash":"#40C4FF","gemini-pro":"#69F0AE","claude":"#FFAB40","gpt":"#FF5252"},"displayMinutes":90,"interval":90,"prediction":{"groupId":"gemini-flash","groupLabel":"Gemini
+  Flash","usageRate":0,"runway":"Stable","remaining":100}},"displayItems":[{"id":"gemini-flash","label":"Gemini
+  Flash","type":"group","remaining":100,"resetTime":"4h
+  56m","hasData":true,"themeColor":"#40C4FF"},{"id":"gemini-pro","label":"Gemini
+  Pro","type":"group","remaining":100,"resetTime":"4h
+  56m","hasData":true,"themeColor":"#69F0AE"},{"id":"claude","label":"Claude","type":"group","remaining":100,"resetTime":"4h
+  56m","hasData":true,"themeColor":"#FFAB40"}]},"tfa.lastSnapshot":{"data":{"timestamp":"2026-05-04T06:46:58.815Z","promptCredits":{"available":500,"monthly":50000,"usedPercentage":99,"remainingPercentage":1},"flowCredits":{"available":100,"monthly":150000,"usedPercentage":99.93333333333332,"remainingPercentage":0.06666666666666667},"tokenUsage":{"promptCredits":{"available":500,"monthly":50000,"usedPercentage":99,"remainingPercentage":1},"flowCredits":{"available":100,"monthly":150000,"usedPercentage":99.93333333333332,"remainingPercentage":0.06666666666666667},"totalAvailable":600,"totalMonthly":200000,"overallRemainingPercentage":0.3},"userInfo":{"name":"Ian
+  Mustafa","email":"cuplizian@gmail.com","tier":"Google AI
+  Pro","tierId":"g1-pro-tier","tierDescription":"Google AI
+  Pro","planName":"Pro","teamsTier":"TEAMS_TIER_PRO","upgradeUri":"https://antigravity.google/g1-upgrade","upgradeText":"You
+  can upgrade to the Google AI Ultra plan to receive the highest rate
+  limits.","browserEnabled":true,"knowledgeBaseEnabled":true,"canBuyMoreCredits":true,"monthlyPromptCredits":50000,"availablePromptCredits":500},"models":[{"label":"Gemini
+  3.1 Pro
+  (High)","modelId":"MODEL_PLACEHOLDER_M37","remainingPercentage":100,"isExhausted":false,"resetTime":"2026-05-04T11:42:28.000Z","timeUntilReset":"4h
+  56m"},{"label":"Gemini 3.1 Pro
+  (Low)","modelId":"MODEL_PLACEHOLDER_M36","remainingPercentage":100,"isExhausted":false,"resetTime":"2026-05-04T11:42:28.000Z","timeUntilReset":"4h
+  56m"},{"label":"Gemini 3
+  Flash","modelId":"MODEL_PLACEHOLDER_M84","remainingPercentage":100,"isExhausted":false,"resetTime":"2026-05-04T11:42:28.000Z","timeUntilReset":"4h
+  56m"},{"label":"Claude Sonnet 4.6
+  (Thinking)","modelId":"MODEL_PLACEHOLDER_M35","remainingPercentage":100,"isExhausted":false,"resetTime":"2026-05-04T11:42:28.000Z","timeUntilReset":"4h
+  56m"},{"label":"Claude Opus 4.6
+  (Thinking)","modelId":"MODEL_PLACEHOLDER_M26","remainingPercentage":100,"isExhausted":false,"resetTime":"2026-05-04T11:42:28.000Z","timeUntilReset":"4h
+  56m"},{"label":"GPT-OSS 120B
+  (Medium)","modelId":"MODEL_OPENAI_GPT_OSS_120B_MEDIUM","remainingPercentage":100,"isExhausted":false,"resetTime":"2026-05-04T11:42:28.000Z","timeUntilReset":"4h
+  56m"}]},"timestamp":1777877218843},"tfa.lastDisplayPercentage":100,"tfa.lastUsageRate":0,"tfa.lastRunway":"Stable","tfa.lastPredictionGroup":"gemini-flash","tfa.lastUserInfo":{"name":"Ian
+  Mustafa","email":"cuplizian@gmail.com","tier":"Google AI
+  Pro","tierDescription":"Google AI
+  Pro","planName":"Pro","browserEnabled":true,"knowledgeBaseEnabled":true,"upgradeUri":"https://antigravity.google/g1-upgrade","upgradeText":"You
+  can upgrade to the Google AI Ultra plan to receive the highest rate
+  limits."},"tfa.lastTokenUsage":{"promptCredits":{"available":500,"monthly":50000,"usedPercentage":99,"remainingPercentage":1},"flowCredits":{"available":100,"monthly":150000,"usedPercentage":99.93333333333332,"remainingPercentage":0.06666666666666667},"totalAvailable":600,"totalMonthly":200000,"overallRemainingPercentage":0.3,"formatted":{"promptAvailable":"500","promptMonthly":"50.0K","flowAvailable":"100","flowMonthly":"150.0K","totalAvailable":"600","totalMonthly":"200.0K"}}}'
+oven.bun-vscode: '{"BUN_INSPECT_CONNECT_TO":{"type":"unix","url":"unix:///tmp/v1zjddc57vn.sock"}}'
+vscode-icons-team.vscode-icons: '{"vsicons":{"version":"12.17.0","status":2,"welcomeShown":true}}'
+Vue.volar: '{"vue.welcome":"3.2.0"}'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7}]'
+workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
+  \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
+  in\":true,\"views\":[{},{},{},{\"when\":\"timelineHasProvider\"},{\"when\":\"\
+  npm:showScriptExplorer\"}]},{\"id\":\"workbench.view.search\",\"themeIcon\":{\
+  \"id\":\"search-view-icon\"},\"name\":\"Code
+  Search\",\"isBuiltin\":true,\"views\":[{\"when\":\"!antigravity.isGoogle3Work\
+  space\"}]},{\"id\":\"workbench.view.scm\",\"themeIcon\":{\"id\":\"source-cont\
+  rol-view-icon\"},\"name\":\"Source
+  Control\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount &&
+  scm.providerCount != '0'\"},{},{\"when\":\"scm.historyProviderCount &&
+  scm.historyProviderCount !=
+  '0'\"}]},{\"id\":\"workbench.view.debug\",\"themeIcon\":{\"id\":\"run-view-ic\
+  on\"},\"name\":\"Run and
+  Debug\",\"isBuiltin\":true,\"views\":[{\"when\":\"debugUx ==
+  'simple'\"},{\"when\":\"debugUx == 'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"loadedScriptsSupported && debugUx ==
+  'default'\"},{\"when\":\"breakpointsExist || hasDebugged || debugUx ==
+  'default'\"},{\"when\":\"debugType == 'pwa-chrome' || debugType ==
+  'pwa-msedge'\"},{\"when\":\"jsDebugHasExcludedCallers && debugType ==
+  'node-terminal' || jsDebugHasExcludedCallers && debugType == 'pwa-chrome' ||
+  jsDebugHasExcludedCallers && debugType == 'pwa-extensionHost' ||
+  jsDebugHasExcludedCallers && debugType == 'pwa-msedge' ||
+  jsDebugHasExcludedCallers && debugType ==
+  'pwa-node'\"},{\"when\":\"jsDebugNetworkAvailable\"}]},{\"id\":\"workbench.vi\
+  ew.remote\",\"themeIcon\":{\"id\":\"remote-explorer-view-icon\"},\"name\":\"R\
+  emote
+  Explorer\",\"isBuiltin\":true,\"views\":[{},{},{\"when\":\"false\"}]},{\"id\":\
+  \"workbench.view.extensions\",\"themeIcon\":{\"id\":\"extensions-view-icon\"},\
+  \"name\":\"Extensions\",\"isBuiltin\":true,\"views\":[]},{\"id\":\"workbench.\
+  view.extension.test\",\"themeIcon\":{\"id\":\"test-view-icon\"},\"name\":\"Te\
+  sting\",\"isBuiltin\":true,\"views\":[{\"when\":\"testing.providerCount >
+  0\"},{\"when\":\"testing.isTestCoverageOpen\"}]},{\"id\":\"workbench.view.ext\
+  ension.references-view\",\"themeIcon\":{\"id\":\"references\"},\"name\":\"Ref\
+  erences\",\"isBuiltin\":false,\"views\":[{\"when\":\"reference-list.isActive\
+  \"}]}]"
+workbench.activityBar.location: default
+workbench.auxiliaryBar.empty: "true"
+workbench.auxiliaryBar.lastNonMaximizedSize: "300"
+workbench.auxiliaryBar.size: "444"
+workbench.editor.languageDetectionOpenedLanguages.global: '[["astro",true],["sql",true],["javascript",true],["ignore",true],["jsonc",true],["markdown",true],["vue",true],["json",true],["plaintext",true],["dotenv",true],["typescript",true],["yaml",true]]'
+workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"clangd.typeHierarchyView","isHidden":false},{"id":"clangd.memoryUsage","isHidden":false},{"id":"clangd.ast","isHidden":false},{"id":"go.explorer","isHidden":false},{"id":"go.package.outline","isHidden":false},{"id":"dartDependencyTree","isHidden":false},{"id":"i18n-ally-locales-file-explorer","isHidden":false},{"id":"prettyTsErrors.markdownPreview","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false}]'
+workbench.panel.alignment: center
+workbench.panel.lastNonMaximizedHeight: "300"
+workbench.panel.lastNonMaximizedWidth: "300"
+workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
+workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
+workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.gitlensPanel","pinned":true,"visible":false,"order":6},{"id":"workbench.panel.comments","pinned":true,"visible":false,"order":10},{"id":"refactorPreview","pinned":true,"visible":false}]'
+workbench.panel.placeholderPanels: '[{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.output","themeIcon":{"id":"output-view-icon"},"name":"Output","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.repl","themeIcon":{"id":"debug-console-view-icon"},"name":"Debug
+  Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
+  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[]},{"id":"workbench.view.extension.gitlensPanel","themeIcon":{"id":"gitlens-graph"},"name":"GitLens","isBuiltin":false,"views":[{"when":"!gitlens:disabled
+  && !gitlens:plus:disabled || !gitlens:disabled &&
+  gitlens:plus:disabled:view:overrides =~
+  /(?:^|\\|)gitlens\\.views\\.graph(?:\\||$)/"},{"when":"!gitlens:disabled &&
+  !gitlens:plus:disabled"}]},{"id":"workbench.panel.comments","name":"Comments","isBuiltin":false},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
+  Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]}]'
+workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
+workbench.panel.size: "394"
+workbench.quickInput.viewState: '{"top":0.25,"left":0.5}'
+workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false},{"id":"workbench.scm.history","isHidden":false},{"id":"gitlens.views.repositories","isHidden":true},{"id":"gitlens.views.commits","isHidden":false},{"id":"gitlens.views.branches","isHidden":false},{"id":"gitlens.views.remotes","isHidden":false},{"id":"gitlens.views.stashes","isHidden":false},{"id":"gitlens.views.tags","isHidden":false},{"id":"gitlens.views.worktrees","isHidden":false},{"id":"gitlens.views.contributors","isHidden":false},{"id":"gitlens.views.scm.grouped","isHidden":false}]'
+workbench.sideBar.size: "293"
+workbench.statusbar.hidden: '["henrikdev.ag-quota"]'
+workbench.telemetryOptOutShown: "true"
+workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"jsExcludedCallers","isHidden":false},{"id":"jsDebugNetworkTree","isHidden":false}]'
+workbench.view.extension.containersView.state.hidden: '[{"id":"vscode-containers.views.containers","isHidden":false},{"id":"vscode-containers.views.images","isHidden":false},{"id":"vscode-containers.views.registries","isHidden":false},{"id":"vscode-containers.views.networks","isHidden":false},{"id":"vscode-containers.views.volumes","isHidden":false},{"id":"vscode-containers.views.dockerContexts","isHidden":false},{"id":"vscode-containers.views.help","isHidden":false}]'
+workbench.view.extension.gitlens.state.hidden: '[{"id":"gitlens.views.home","isHidden":false},{"id":"gitlens.views.launchpad","isHidden":false},{"id":"gitlens.views.drafts","isHidden":false},{"id":"gitlens.views.workspaces","isHidden":false},{"id":"gitlens.views.welcome","isHidden":false}]'
+workbench.view.extension.gitlensInspect.state.hidden: '[{"id":"gitlens.views.commitDetails","isHidden":false},{"id":"gitlens.views.pullRequest","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.timeline","isHidden":false},{"id":"gitlens.views.searchAndCompare","isHidden":false}]'
+workbench.view.extension.gitlensPanel.state.hidden: '[{"id":"gitlens.views.graph","isHidden":false},{"id":"gitlens.views.graphDetails","isHidden":false}]'
+workbench.view.extension.i18n-ally.state.hidden: '[{"id":"i18n-ally-locales-sidebar-file","isHidden":false},{"id":"i18n-ally-locales-progress","isHidden":false},{"id":"i18n-ally-locales-tree","isHidden":false},{"id":"i18n-ally-locales-usage","isHidden":false},{"id":"i18n-ally-help-feedback","isHidden":false}]'
+workbench.view.extension.prettyTsErrors.state.hidden: '[{"id":"prettyTsErrors.sidePanel","isHidden":false}]'
+workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","isHidden":false},{"id":"workbench.view.testCoverage","isHidden":false},{"id":"go.test.profile","isHidden":false}]'
+workbench.view.extension.tfa-sidebar.state.hidden: '[{"id":"tfa.sidebar","isHidden":false}]'
+workbench.view.extension.todo-tree-container.state.hidden: '[{"id":"todo-tree-view","isHidden":false}]'
+workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.marketplaceAccess","isHidden":false},{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.mcp.installed","isHidden":false},{"id":"workbench.views.mcp.default.marketplace","isHidden":false},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false},{"id":"workbench.views.mcp.marketplace","isHidden":false},{"id":"workbench.views.mcp.default.welcomeView","isHidden":false},{"id":"workbench.views.mcp.welcomeView","isHidden":false}]'
+workbench.view.remote.state.hidden: '[{"id":"antigravityDevContainers","isHidden":false},{"id":"antigravitySSHHosts","isHidden":false}]'
+workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
+workbench.views.extensions.installed.size: "45"
+zokugun.cron-tasks: '{"version":"0.2.1"}'
